@@ -1,0 +1,1 @@
+execute as @a at @s run playsound mcc:games.global.countdown.123 master @a ~ ~ ~ 1 1.01

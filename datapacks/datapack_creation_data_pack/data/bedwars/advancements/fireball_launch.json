@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "use_launcher": {
+      "trigger": "minecraft:used_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:carrot_on_a_stick"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "bedwars:launch_fireball"
+  }
+}

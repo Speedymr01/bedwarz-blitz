@@ -1,0 +1,1 @@
+execute as @a at @s run playsound mcc:games.global.gameentry master @s ~ ~ ~ 1 1
